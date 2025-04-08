@@ -1,0 +1,7 @@
+name: yt-dlp-web
+version: 1.0.0
+description: A lightweight self-hosted web interface for yt-dlp
+dependencies:
+  - flask
+  - flask-cors
+  - yt-dlp
