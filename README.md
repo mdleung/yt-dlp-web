@@ -92,4 +92,3 @@ MIT
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - The powerful command-line downloader
 - [Flask](https://flask.palletsprojects.com/) - Lightweight web framework
-- [Alpine.js](https://alpinejs.dev/) - Minimal JavaScript framework
